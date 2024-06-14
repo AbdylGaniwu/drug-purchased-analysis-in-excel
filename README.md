@@ -2,7 +2,7 @@
 
 This project analyses a dataset on drug performance for common conditions. By leveraging customer reviews, cost information, cost of use, satisfaction ratings, drug effectiveness and more. I aim to understand patient experiences and identify potential trends in drug use.
 
-##Dataset Description:
+## Dataset Description:
 •	Condition: Medical condition treated by the drug.
 •	Drug: Name of the medication.
 •	Indication: Purpose of the drug.
@@ -14,7 +14,7 @@ This project analyses a dataset on drug performance for common conditions. By le
 •	Dosage Form: Physical form of the drug (tablet, capsule, etc.).
 •	Price: Average price of the drug.
 
-##Analysis Objectives and Insight:
+## Analysis Objectives and Insight:
 
 1.	**Compare the Purchase type and quantity of drugs purchased:** 
 Based on observation on the pie chart, most patients received a prescription (Rx) from a doctor, accounting for 70.66% of drug purchases. Over-the-counter (OTC) drugs were used by 24.53% of patients, while a small fraction relied on both prescription and OTC drugs. Less than 1% relied on other forms of either prescription or OTC drugs. The pie chart shows that prescriptions dominate, indicating patients' preference for a doctor's diagnosis and recommendation.
@@ -40,12 +40,12 @@ Pancreatic Cancer (Adenocarcinoma of the Pancreas) had the highest average drug 
 This dataset provides valuable insights into the performance of various drugs based on customer reviews, prices, and types. The analysis can help healthcare professionals and researchers understand trends and preferences, ultimately improving drug prescriptions and patient satisfaction.
 
 
-##Software Used:
+## Software Used:
 •	Microsoft Excel
 o	Power Query
 o	PivotTables
 
-##Future Enhancements:
+## Future Enhancements:
 •	Implement advanced trend analysis techniques.
 •	Develop forecasting models for drug purchase patterns.
 •	Integrate additional healthcare datasets for broader insights.
