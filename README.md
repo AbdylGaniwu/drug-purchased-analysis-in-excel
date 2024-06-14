@@ -1,4 +1,4 @@
-#Drug Purchase Analysis
+# Drug Purchase Analysis
 
 This project analyses a dataset on drug performance for common conditions. By leveraging customer reviews, cost information, cost of use, satisfaction ratings, drug effectiveness and more. I aim to understand patient experiences and identify potential trends in drug use.
 
